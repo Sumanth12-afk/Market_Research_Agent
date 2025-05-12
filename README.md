@@ -178,4 +178,4 @@ See the [LICENSE](LICENSE) file for details.
 ## 📬 Contact
 
 For support, please open an issue or contact:  
-**your-email@example.com**
+**sumanthnallandhigal@gmail.com**
